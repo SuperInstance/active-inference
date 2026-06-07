@@ -1,0 +1,9 @@
+[package]
+name = "active-inference"
+version = "0.1.0"
+edition = "2021"
+description = "Active inference framework for goal-directed behavior under the free energy principle"
+repository = "https://github.com/SuperInstance/active-inference"
+license = "MIT"
+
+[dependencies]
